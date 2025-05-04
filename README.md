@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Debit Bhattarai
 
-<!--
-**Debit-git/Debit-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student | 🔐 Interested in Cybersecurity  
+📍 Based in the United States | 🧠 Learning by building and experimenting
 
-Here are some ideas to get you started:
+I'm an undergraduate student exploring the world of programming, with a strong interest in Python and cybersecurity. I’m currently focused on building simple terminal-based applications and improving my coding skills through projects and practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+- **Languages**: Python (beginner-intermediate), C (basic), Java(basic)  
+- **Tools**: Git, GitHub, VS Code  
+- **Learning**: Python problem solving, cybersecurity fundamentals
+
+---
+
+## 📌 Projects
+
+- 🃏 **[Blackjack-terminal](https://github.com/Debit-git/Blackjack-terminal)** – A command-line blackjack game built in Python.  
+- 🔤 **[Hangman-game](https://github.com/Debit-git/Hangman-game)** – A simple terminal-based word guessing game.
+
+---
+
+## 🎯 Goals
+
+- Build more Python-based tools and games  
+- Improve coding problem-solving ability  
+- Learn the basics of cybersecurity and apply it in small projects
+
+---
+
+## 📫 Contact
+
+- 📧 Email: bhatd25@uwgb.edu
+
+---
+
+> _“The expert in anything was once a beginner.”_
