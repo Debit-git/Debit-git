@@ -32,7 +32,7 @@ I'm an undergraduate student exploring the world of programming, with a strong i
 
 ## 📫 Contact
 
-- 📧 Email: bhatd25@uwgb.edu
+- 📧 Email: bhattaraidebit0@gmail.com
 
 ---
 
